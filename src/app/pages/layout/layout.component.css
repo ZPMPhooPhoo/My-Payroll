@@ -1,0 +1,12 @@
+.title{
+    color:aliceblue;
+    font-size: 30px;
+    font-weight: 900;
+}
+a{
+    color:aliceblue;
+}
+a:hover{
+    color:yellow;
+}
+
